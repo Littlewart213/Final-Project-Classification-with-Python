@@ -1,2 +1,2 @@
-# Final-Project-Classification-with-Python
+# Final-Project-Classification-with-Python Course
 Importing Data,  Data Preprocessing, One Hot Encoding,Train and Test Data Split, Train Logistic Regression, KNN, Decision Tree, SVM, and Linear Regression models and return their appropriate accuracy scores
